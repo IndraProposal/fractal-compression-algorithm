@@ -1,12 +1,7 @@
 # fractal-compression-algorithm
 This repository contains an algorithm that leverages fractal geometry for efficient data compression. It can be applied to image and video compression, data storage, and network communication.
 
-Certainly! Below is a GitHub repository outline for the Fractal Compression Algorithm, including a description, usage, example, and repository structure.
-
-```markdown
 # Fractal Compression Algorithm
-
-This repository contains an algorithm that leverages fractal geometry for efficient data compression. It can be applied to image and video compression, data storage, and network communication.
 
 ## Description
 
@@ -66,7 +61,7 @@ The Fractal Compression Algorithm is licensed under the MIT License.
 - `tests/test_fractal_compression.py`: Unit tests for the algorithm.
 
 
-Certainly! Below is a basic example of the `fractal_compression.py` file. This code is a high-level representation and may require further development and refinement to be fully functional for specific applications.
+Below is a basic example of the `fractal_compression.py` file. This code is a high-level representation and may require further development and refinement to be fully functional for specific applications.
 
 ```python
 # fractal_compression.py
